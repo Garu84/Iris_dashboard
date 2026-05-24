@@ -68,7 +68,7 @@ streamlit run app.py
 Streamlit Cloud Link:
 
 ```
-https://irisdashboard-g4ypstqxqsiwyu2stqdkrt.streamlit.app
+https://irisdashboard-g4ypstqxqsiwyu2stqdkrt.streamlit.app/
 ```
 
 ## Model Metrics
